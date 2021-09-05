@@ -2,3 +2,4 @@ logging_server.txt
 target/
 .idea/
 *.iml
+/build
